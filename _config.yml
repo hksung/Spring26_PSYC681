@@ -1,5 +1,5 @@
 # Site settings
-course_name: PSYC 681 Natural Language Processing and Large Language Models (S26)
+course_name: PSYC 681 Natural Language Processing and Large Language Models
 course_description: This course provides theoretical foundation as well as hands-on (lab-style) practice in computational approaches for processing natural language text, for problems that involve natural language meaning and structure. The course has relevance to cognitive science, artificial intelligence, and science and technology fields. Large language models and machine learning, including standard and deep neural network methods, is a central component of this course. Students will develop natural language processing solutions individually or in teams using Python, and explore additional relevant tools and LLMs or related foundation models.
 
 baseurl: "/Spring26_PSYC681" # the subpath of your site, e.g. /blog/
