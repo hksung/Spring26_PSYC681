@@ -1,9 +1,8 @@
 # Site settings
-course_name: LING 351 Language Technology and Large Language Models
-course_description: This course explores the interaction between language and technology, from the invention of writing systems to modern tools that process and generate language using large language models. While not a technical course in natural language processing (NLP), it may serve as a potential gateway to more implementation-focused studies, as students will learn basic text processing skills in Python. The primary focus is on the linguistic and conceptual understanding underlying language technologies.
-course_semester: "Fall 2025"
+course_name: PSYC 681 Natural Language Processing and Large Language Models
+course_description: This course provides theoretical foundation as well as hands-on (lab-style) practice in computational approaches for processing natural language text, for problems that involve natural language meaning and structure. The course has relevance to cognitive science, artificial intelligence, and science and technology fields. Large language models and machine learning, including standard and deep neural network methods, is a central component of this course. Students will develop natural language processing solutions individually or in teams using Python, and explore additional relevant tools and LLMs or related foundation models.
 
-baseurl: "/Fall25_LING351" # the subpath of your site, e.g. /blog/
+baseurl: "/Spring26_PSYC681" # the subpath of your site, e.g. /blog/
 url: "http://hksung.github.io/" # the base hostname & protocol for your site
 
 schoolname: "RIT"
