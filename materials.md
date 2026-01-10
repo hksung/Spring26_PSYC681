@@ -4,15 +4,14 @@ title: Materials
 permalink: /materials/
 ---
 
-## Book
+## ✦ Book
 
 - Jurafsky, D., & Martin, J. H. (2024). *Speech and Language Processing: An introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models* (3rd ed., draft). [Available online](https://web.stanford.edu/~jurafsky/slp3/)
 
----
 
-## Paper List 
+## ✦ Paper List 
 
-|  # | Authors                   | Title                                                                                                                                                                  |
+|  # | Authors (Year)                   | Title  (*click to open*)                                                                                                                                                                |
 | -: | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1 | Mikolov et al. (2013)     | [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)                                                                        |
 |  2 | Pennington et al. (2014)  | [GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162.pdf)                                                                                 |
