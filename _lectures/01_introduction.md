@@ -5,6 +5,6 @@ title: 1. Introduction
 tldr: "Intro to lecture"
 thumbnail: /static_files/presentations/lec1.png
 links: 
-    - url: /Slides/empty.pdf
+    - url: /Slides/011326_Lec1.pdf
       name: slides
 ---
