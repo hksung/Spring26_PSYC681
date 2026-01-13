@@ -2,6 +2,7 @@
 type: assignment
 date: 2026-01-13T23:59:00+3:30
 title: "1. Paper Presentation"
+due_event: null
 ---
 
 This is a brief guideline on how to prepare your paper presentation.
