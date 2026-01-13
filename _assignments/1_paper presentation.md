@@ -43,5 +43,4 @@ Presentations will be evaluated based on the simple criteria (2 points each, 6 p
 3. *Organization and timing*: Is the presentation well-structured and within the allotted time (1 point each)?
 
 ### Paper selection
-
-Use the link to view the list of papers and select the one you will present: <https://docs.google.com/spreadsheets/d/1l83wSEIscZXnNOktmqZ8XpKi2bVoaFFz6oVxYLfdxpk/edit?usp=sharing>
+- Use the link to view the list of papers and select the one you will present by **Jan 15**: <https://docs.google.com/spreadsheets/d/1l83wSEIscZXnNOktmqZ8XpKi2bVoaFFz6oVxYLfdxpk/edit?usp=sharing>
