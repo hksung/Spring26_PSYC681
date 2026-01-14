@@ -27,24 +27,15 @@ permalink: /grades/
 
 ## Final Grade Scale
 
-* **A**: 93–100%
-* **A-**: 90–92.99%
-* **B+**: 87–89.99%
-* **B**: 83–86.99%
-* **B-**: 80–82.99%
-* **C+**: 77–79.99%
-* **C**: 73–76.99%
-* **C-**: 70–72.99%
-* **D**: 60–69.99%
-* **F**: < 60%
+A (93–100), A− (90–92.99), B+ (87–89.99), B (83–86.99), B− (80–82.99), C+ (77–79.99), C (73–76.99), C− (70–72.99), D (60–69.99), F (<60).
 
 ---
 
 ## Late Policy
 
-* **2-hour grading window**: Automatically applied to all online submissions.
-* **Late penalty**: −10% per day, up to 5 days. After 5 days, the grade is 0.
-* **Final paper**: No extensions.
+* 2-hour grading window: Automatically applied to all online submissions.
+* Late penalty: −10% per day, up to 5 days. After 5 days, the grade is 0.
+* Final paper: No extensions.
 
 ---
 
