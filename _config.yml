@@ -2,6 +2,8 @@
 course_name: PSYC 681 Natural Language Processing and LLMs
 course_description: This course provides theoretical foundation as well as hands-on (lab-style) practice incomputational approaches for processing natural language text, for problems that involve naturallanguage meaning and structure. The course has relevance to cognitive science, artificialintelligence, and science and technology fields. Large language models and machine learning,including standard and deep neural network methods, is a central component of this course.Students will develop natural language processing solutions in teams, leveraging large languagemodels.
 course_semester: "Spring 2026"
+course_location: "EAS 3381/TuTh 8:00-9:15 a.m."
+office_hours: "TuTh 9:30-10:30 in-person (EAS 3137), or Zoom by appointment"
 
 baseurl: "/Spring26_PSYC681" # the subpath of your site, e.g. /blog/
 url: "http://hksung.github.io/" # the base hostname & protocol for your site

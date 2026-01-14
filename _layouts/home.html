@@ -11,7 +11,8 @@ layout: default
 
     <h2>Course Description</h2>
     <p>{{ site.course_description }}</p>
-    
+    <p><strong>Location/Time:</strong> {{ site.course_location }}</p>
+    <p><strong>Office Hours:</strong> {{ site.office_hours }}</p>
     {{ content }}
 
     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
