@@ -8,42 +8,6 @@ due_event:
     description: '1. Paper Presentation'
 ---
 
-This is a brief guideline on how to prepare your paper presentation.
-
-The goal of this assignment is to introduce important NLP papers to the class. Students will benefit the most by reading the paper carefully and summarizing its key points. When presenting, focus less on technical implementation details and more on conveying (1) **what was done** and (2) **why the paper is important**.
-
-**Time Limit:** 15–20 minutes (no more than 20 minutes)
-
-When preparing your presentation, consider the following guiding questions:
-
-1. What problem does the paper address?
-2. Why is this problem important?
-3. What research gap does this paper identify?
-4. What research questions or goals guide the study?
-5. How did the authors approach the problem?
-6. What are the key findings?
-7. What does this paper contribute to the field?
-8. What are the strengths and limitations of the study?
-9. What remains unresolved or could be improved?
-10. What are potential future directions?
-11. Are there any studies that have built on this work?
-
-*Tip*: If structuring a full presentation is difficult, you may select four questions from the list and answer each in approximately five minutes. For example, I'd recommend the following workflow:
-
-1. First, skim the paper. And then, read the paper more thoroughly.
-2. Decide which questions you want to address.
-3. Prepare clear answers to those questions.
-4. Organize your answers into presentation format (so that you can explain them to your peers).
-5. May prepare Q&A section at the end of the presentation.
-
-### Evaluation criteria
-Presentations will be evaluated based on the simple criteria (2 points each, 6 points in total):
-1. *Clarity*: Are the key ideas communicated clearly?
-2. *Depth*: Does the presenter demonstrate understanding of the problem, approach, and significance?
-3. *Organization and timing*: Is the presentation well-structured and within the allotted time (1 point each)?
-
-----
-
 ## Paper presentation schedule/slides:
 - *Note 1*. Presentation slides will be updated following the schedule.
 - *Note 2*. Click the `presenter` to open the slide or the `title` to open the paper.
@@ -75,3 +39,44 @@ Presentations will be evaluated based on the simple criteria (2 points each, 6 p
 | 4/14 | Karthik          | Wang et al. (2023)        | [Self-Consistency for Chain-of-Thought Reasoning](https://arxiv.org/pdf/2203.11171) |
 | 4/16 | Rahul            | Lightman et al. (2023)    | [Let’s Verify Step by Step](https://arxiv.org/abs/2305.20050) |
 | 4/16 | Ishan            | Snell et al. (2024)       | [Scaling LLM Test-Time Compute](https://arxiv.org/abs/2408.03314) |
+
+---
+
+## Guidelines
+
+This is a brief guideline on how to prepare your paper presentation.
+
+The goal of this assignment is to introduce important NLP papers to the class. Students will benefit the most by reading the paper carefully and summarizing its key points. When presenting, focus less on technical implementation details and more on conveying (1) **what was done** and (2) **why the paper is important**.
+
+**Time Limit:** 15–20 minutes (no more than 20 minutes)
+
+When preparing your presentation, consider the following guiding questions:
+
+1. What problem does the paper address?
+2. Why is this problem important?
+3. What research gap does this paper identify?
+4. What research questions or goals guide the study?
+5. How did the authors approach the problem?
+6. What are the key findings?
+7. What does this paper contribute to the field?
+8. What are the strengths and limitations of the study?
+9. What remains unresolved or could be improved?
+10. What are potential future directions?
+11. Are there any studies that have built on this work?
+
+*Tip*: If structuring a full presentation is difficult, you may select four questions from the list and answer each in approximately five minutes. For example, I'd recommend the following workflow:
+
+1. First, skim the paper. And then, read the paper more thoroughly.
+2. Decide which questions you want to address.
+3. Prepare clear answers to those questions.
+4. Organize your answers into presentation format (so that you can explain them to your peers).
+5. May prepare Q&A section at the end of the presentation.
+
+---
+
+## Evaluation
+
+Presentations will be evaluated based on the simple criteria (2 points each, 6 points in total):
+1. *Clarity*: Are the key ideas communicated clearly?
+2. *Depth*: Does the presenter demonstrate understanding of the problem, approach, and significance?
+3. *Organization and timing*: Is the presentation well-structured and within the allotted time (1 point each)?
