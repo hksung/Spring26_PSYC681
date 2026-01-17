@@ -46,7 +46,7 @@ Presentations will be evaluated based on the simple criteria (2 points each, 6 p
 
 ## Paper presentation schedule/slides:
 - *Note 1*. Presentation slides will be updated following the schedule.
-- *Note 2*. Click the `slide` link or the `paper title` to open the paper.
+- *Note 2*. Click the `presenter` to open the slide or the `title` to open the paper.
 
 | Date | Presenter        | Authors (Year)            | Title (*click to open paper*) |
 | :--- | :--------------- | ------------------------- | ----------------------------- |
