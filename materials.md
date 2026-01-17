@@ -11,7 +11,7 @@ permalink: /materials/
 
 ## ✦ Paper List 
 
-|  # | Authors (Year)                   | Title  (*click to open*)                                                                                                                                                                |
+|  # | Authors (Year)                   | Title                                                                                                                                                                  |
 | -: | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1 | Mikolov et al. (2013)     | [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)                                                                        |
 |  2 | Pennington et al. (2014)  | [GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162.pdf)                                                                                 |
