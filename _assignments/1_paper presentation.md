@@ -12,7 +12,7 @@ due_event:
 - *Note 1*. Presentation slides will be updated following the schedule.
 - *Note 2*. Click the `presenter` to open the slide or the `title` to open the paper.
 
-| Date | Presenter        | Authors (Year)            | Title (*click to open paper*) |
+| Date | Presenter        | Authors (Year)            | Title  |
 | :--- | :--------------- | ------------------------- | ----------------------------- |
 | 1/20 | Emily            | Mikolov et al. (2013)     | [Efficient Estimation of Word Representations](https://arxiv.org/pdf/1301.3781) |
 | 1/20 | Sindhu           | Pennington et al. (2014)  | [GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162.pdf) |
@@ -72,7 +72,6 @@ When preparing your presentation, consider the following guiding questions:
 4. Organize your answers into presentation format (so that you can explain them to your peers).
 5. May prepare Q&A section at the end of the presentation.
 
----
 
 ## ✦ Evaluation
 
