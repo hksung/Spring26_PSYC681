@@ -8,7 +8,7 @@ due_event:
     description: '1. Paper Presentation'
 ---
 
-## Paper presentation schedule/slides:
+## ✦ Paper presentation schedule/slides:
 - *Note 1*. Presentation slides will be updated following the schedule.
 - *Note 2*. Click the `presenter` to open the slide or the `title` to open the paper.
 
@@ -42,7 +42,7 @@ due_event:
 
 ---
 
-## Guidelines
+## ✦ Guidelines
 
 This is a brief guideline on how to prepare your paper presentation.
 
@@ -74,7 +74,7 @@ When preparing your presentation, consider the following guiding questions:
 
 ---
 
-## Evaluation
+## ✦ Evaluation
 
 Presentations will be evaluated based on the simple criteria (2 points each, 6 points in total):
 1. *Clarity*: Are the key ideas communicated clearly?
