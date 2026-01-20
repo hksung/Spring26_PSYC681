@@ -1,0 +1,13 @@
+---
+type: lecture
+date: 2026-01-15
+title: 2. Lab 1 Python basics
+tldr: "Python basics"
+thumbnail: /static_files/presentations/lab1.png
+links:
+  - name: slides
+    url: /Slides/011526_Lec2.pdf
+
+  - name: colab
+    url: https://colab.research.google.com/drive/16_cL07cBskXTx6FQwXRjEmuIIPezBwDv?usp=sharing
+---
