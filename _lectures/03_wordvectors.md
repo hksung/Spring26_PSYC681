@@ -1,13 +1,11 @@
 ---
 type: lecture
-date: 2026-01-15
-title: 2. Lab 1 Python basics
-tldr: "Python basics"
+date: 2026-01-20
+title: 3. Word vectors
+tldr: "Word vectors"
 thumbnail: /static_files/presentations/lab1.png
 links:
   - name: slides
-    url: /Slides/011526_Lec2.pdf
+    url: /Slides/012026_Lec3.pdf
 
-  - name: colab
-    url: https://colab.research.google.com/drive/16_cL07cBskXTx6FQwXRjEmuIIPezBwDv?usp=sharing
 ---
