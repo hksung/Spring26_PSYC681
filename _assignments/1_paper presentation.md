@@ -8,9 +8,7 @@ due_event:
     description: '1. Paper Presentation'
 ---
 
-## ✦ Paper presentation schedule/slides:
-- *Note 1*. Presentation slides will be updated following the schedule.
-- *Note 2*. Click the `presenter` to open the slide or the `title` to open the paper.
+## ✦ Paper presentation schedule
 
 | Date | Presenter        | Authors (Year)            | Title  |
 | :--- | :--------------- | ------------------------- | ----------------------------- |
