@@ -10,3 +10,4 @@ links:
 
 ---
 - SLP, <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf" target="_blank" rel="noopener noreferrer">Chapter 6</a>
+- Pennington, Socher, & Manning (2014). <a href="https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf" target="_blank" rel="noopener noreferrer">Natural language processing (almost) from scratch</a>
