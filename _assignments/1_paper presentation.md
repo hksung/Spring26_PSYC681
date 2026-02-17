@@ -21,9 +21,9 @@ due_event:
 | 2/10 | Shubh Sudan      | Sak et al. (2014)         | [LSTM Architectures for Acoustic Modeling](https://www.isca-archive.org/interspeech_2014/sak14_interspeech.pdf) |
 | 2/12 | Willow           | Du et al. (2024)          | [Financial Sentiment Analysis](https://dl.acm.org/doi/full/10.1145/3649451) |
 | 2/17 | Shubh Sehgal     | Vaswani et al. (2017)     | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
-| 2/19 | Billy            | Huang et al. (2018)       | [Music Transformer](https://arxiv.org/abs/1809.04281) |
 | 2/24 | Pooja            | Devlin (2019)             | [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/pdf/1810.04805) |
 | 2/26 | Suruthi          | Smith (2020)              | [Contextual Word Representations](https://arxiv.org/pdf/1902.06006) |
+| 2/26 | Billy            | Huang et al. (2018)       | [Music Transformer](https://arxiv.org/abs/1809.04281) |
 | 3/17 | Joshua           | Chung et al. (2022)       | [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416) |
 | 3/17 | Arshad           | Wang et al. (2022)        | [Instruction Tuning on Open Resources](https://arxiv.org/abs/2306.04751) |
 | 3/19 | Adit, Thejas     | Taguchi & Sproat (2025)   | [IASC: Interactive Agentic System for ConLangs](https://arxiv.org/pdf/2510.07591) |
