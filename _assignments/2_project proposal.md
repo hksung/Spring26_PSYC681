@@ -10,29 +10,26 @@ due_event:
 
 ## ✦ Required components 
 
-### 1. Topic / Area
+### ✦ Topic / Area
 - **One sentence** stating the focus.
 - **3–5 keywords.**
 
-### 2. Research Question / Problem
+### ✦ Research Question / Problem
 - **1–2 sentences** clearly stating the core question or hypothesis.
 - Must be specific and testable.
 
-### 3. Mini Annotated Bibliography (2–4 sources)
+### ✦ Mini Annotated Bibliography (at least 3 sources)
 For *each source*:
-- Full citation
-- **1 sentence**: key contribution
-- **1 sentence**: relevance to your project
-- *(Optional)* Method/Data
-- Check here for papers in computational linguistics/NLP: https://aclanthology.org/ :contentReference[oaicite:1]{index=1}
+- Include full citation
+- Outline key contribution of the study
+- Explain how they are relevant to your project
+- Optionally, include Method/Data that you will use in project
+- Check here for published conference proceedings in [computational linguistics](https://aclanthology.org/) (Note that you'll be asked to write either 4 or 8 pages as a final paper)
 
 ---
 
-## Rubric (4 points total)
-
-| Criteria | Points |
-|----------|--------|
-| Clear topic & focused research question | 1 |
-| Relevant and correctly formatted sources | 1 |
-| Clear explanation of contribution & relevance | 1 |
-| Overall clarity and feasibility | 1 |
+## ✦ Evaluation (1 point each; 4 points in total)
+1. Clear topic & focused research question
+2. Relevant and correctly formatted sources
+3. Clear explanation of contribution & relevance
+4. Overall clarity and feasibility
