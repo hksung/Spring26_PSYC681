@@ -41,6 +41,7 @@ due_event:
 ## ✦ Submission
 
 - Upload your presentation slides to MyCourses
+- All group members must submit the report, but you should submit the same version for your group
 
 
 ## ✦ Evaluation (8 points total)
