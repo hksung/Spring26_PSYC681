@@ -11,8 +11,8 @@ This page provides an overview of the group projects.
 # Project timeline
 
 1. Research proposal (March 12)
-2. Background research (March 31, April 2) 
-3. Final presentation (April 21, 23)
+2. Background research (March 31, April 2, 7) 
+3. Final presentation (April 16, 21, 23)
 4. Final paper (May 5)
 
 *Notes*: *Additional information will be updated during each phrase.*
@@ -28,7 +28,7 @@ This page provides an overview of the group projects.
 - **Topic**: Intent of ambiguous and/or informal words in digital conversations using an LLM for interpretation
 
 ## ✧ Group 3
-- **Members**: Jacob, Willow, Billy
+- **Members**: Jacob, Billy
 - **Topic**: Either using NLP for empirical research by applying NLP techniques to a public datasets (ranging from psychology, ideology, Nuzlocke challenges)
 
 ## ✧ Group 4
@@ -67,3 +67,6 @@ This page provides an overview of the group projects.
 - **Members**: Shubh
 - **Topic**: Create an ensemble of pre-trained models to act as a chartered accountant
 
+## ✧ Group 13
+- **Members**: Willow
+- **Topic**: TBA
