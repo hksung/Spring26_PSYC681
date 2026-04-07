@@ -16,10 +16,10 @@ permalink: /grades/
 | Project         | Background research presentation             | 8%         |
 | Project         | Final presentation                           | 12%        |
 | Project         | Final paper                                  | 15%        |
-| Participation   | Ad-hoc in-class activities                   | 1%         |
-| Participation   | Paper presentation participation             | 3%         |
+| Participation   | Paper presentation participation             | 4%         |
 | Participation   | Background research presentation participation | 3%       |
 | Participation   | Final presentation participation             | 3%         |
+| Participation   | Ad-hoc in-class activities                   | (+1%)         |
 | **Total**       |                                              | **100%**   |
 
 
