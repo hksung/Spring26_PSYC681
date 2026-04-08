@@ -69,4 +69,4 @@ This page provides an overview of the group projects.
 
 ## ✧ Group 13
 - **Members**: Willow
-- **Topic**: TBA
+- **Topic**: NLP for social psychological research: A political sentiment analysis case study
