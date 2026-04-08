@@ -8,7 +8,6 @@ due_event:
     description: '5. Final Presentation'
 ---
 
-
 ## ✦ Presentation Schedule
 
 | Date | Groups |

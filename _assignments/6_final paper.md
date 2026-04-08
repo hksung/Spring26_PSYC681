@@ -1,12 +1,13 @@
 ---
 type: assignment
 date: 2026-04-11T23:59:00+3:30
-title: "5. Final Paper"
+title: "6. Final Paper"
 due_event: 
     type: due
     date: 2026-5-5T23:59:00+3:30
-    description: '5. Final Paper'
+    description: '6. Final Paper'
 ---
+
 ## ✦ Guidelines
 
 * For the final project, please use the **ACL (Association for Computational Linguistics) paper format** (template provided in the Midway report guidelines), which is commonly used for NLP and computational linguistics conferences.
@@ -18,16 +19,17 @@ due_event:
 * If you choose the *long* format:
   * Your final report should be **8 pages** (excluding references and appendices).
 
----
+
 
 ## ✦ Submission
 
 - Upload your file to MyCourses.
 - All group members must submit the report, but you should submit the same version for your group.
 
----
+
 
 ## ✦ Evaluation (15 points total)
+
 1. **Originality** (1): Does the paper demonstrate original thinking, meaningful insights, or thoughtful interpretation of the results?
 2. **Format** (1): Does the paper follow the ACL format?
 3. **Clarity & Writing Quality** (2): Is the writing concise, clear, and academically appropriate?
