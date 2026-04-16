@@ -5,4 +5,4 @@ description: 'Final presentation 2'
 hide_from_announcments: true
 ---
 
-Final presentation: Group 5, 6, 8, 9, 13
+Final presentation: Groups 5, 6, 8, 9, 13
